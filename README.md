@@ -1,2 +1,1 @@
-# Header-of-landing-page
-Header of Landing page
+По заданию требовалось создать header для landing страницы. В работе дополнительно использованы API yandex-map и слайдер
