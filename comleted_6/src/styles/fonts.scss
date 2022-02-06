@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'uni_black';
+  src: url('../fonts/unineueblack-webfont.woff2') format('woff2'),
+       url('../fonts/unineueblack-webfont.woff') format('woff');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'uni_bold';
+  src: url('../fonts/unineuebold-webfont.woff2') format('woff2'),
+       url('../fonts/unineuebold-webfont.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'uni_book';
+  src: url('../fonts/unineuebook-webfont.woff2') format('woff2'),
+       url('../fonts/unineuebook-webfont.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'uni_heavy';
+  src: url('../fonts/unineueheavy-webfont.woff2') format('woff2'),
+       url('../fonts/unineueheavy-webfont.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'uni_light';
+  src: url('../fonts/unineuelight-webfont.woff2') format('woff2'),
+       url('../fonts/unineuelight-webfont.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'uni_regular';
+  src: url('../fonts/unineueregular-webfont.woff2') format('woff2'),
+       url('../fonts/unineueregular-webfont.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}

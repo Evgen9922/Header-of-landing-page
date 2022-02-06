@@ -1,0 +1,38 @@
+.slider__indicators {
+  display: none;
+}
+
+.slider__control {
+  top: 40%;
+  background: none;
+  opacity: 1;
+}
+
+.slider__control_prev {
+  left: 4%;
+}
+
+.slider__control_next {
+  right: 4%;
+}
+
+.slider__item {
+  img {
+    margin-right: 8px; 
+    &:last-child{
+      margin-right: 0;
+    }
+  } 
+}
+
+.slider__control_next::before {
+  background-image: url('../imgs/right_point.png');
+  background-size: contain;
+
+}
+
+.slider__control_prev::before {
+  background-image: url('../imgs/left_point.png');
+  background-size: contain;
+}
+

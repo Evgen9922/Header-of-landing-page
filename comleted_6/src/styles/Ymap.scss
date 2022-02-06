@@ -1,0 +1,25 @@
+.ymaps-2-1-79-copyright__link {
+  display: none;
+}
+
+.ymaps-2-1-79-copyright  {
+  visibility: hidden;
+}
+
+#map {
+  overflow: hidden;
+}
+
+.close-btn {
+  position: absolute;
+  right: 0;
+  width: 50px;
+  height: 50px;
+  border: none;
+  border-radius: 50%;
+  background-image: url('../imgs/close.webp');
+  background-color: transparent;
+  z-index: 2;
+  cursor: pointer;
+
+}
