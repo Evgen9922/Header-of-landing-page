@@ -2,10 +2,10 @@
 
 Применённые web-технологии:
 
-Адаптивная верстка
-Кроссбраузерная верстка
-PixelPerfect
-Препроцессор SASS
-flexbox
-javaScript
-Gulp
+- Адаптивная верстка
+- Кроссбраузерная верстка
+- PixelPerfect
+- Препроцессор SASS
+- flexbox
+- javaScript
+- Gulp
